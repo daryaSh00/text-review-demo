@@ -1,3 +1,3 @@
 # GitHub usernames of the text team, one per line.
 # path-guard blocks these people from changing files outside src/i18n/.
-REVIEWER_USERNAME
+darya-sapre-account
